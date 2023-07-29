@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-
 import "./style.css";
-import { react } from "@babel/types";
+
 
 const Login = () => {
   let [userName, setuserName] = useState("");
